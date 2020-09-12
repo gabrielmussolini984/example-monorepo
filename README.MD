@@ -1,9 +1,6 @@
 # Monorepo Example
 > Um template de aplicação com microserviços utilizando também react e nodejs, monorepo feito utilizando yarn workspaces
 
-## Exemplo de uso
-_Foi feito um deploy no Google Cloud, e pode ser acessado pelo link a seguir:  [App][app]._ 
-
 ## Configuração para Desenvolvimento
 
 Clone o repositório e depois instale as depêndencias:
