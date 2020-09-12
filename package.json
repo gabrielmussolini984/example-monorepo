@@ -1,0 +1,22 @@
+{
+  "name": "nome-projeto",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/jest": "^26.0.13",
+    "jest": "24.9.0",
+    "ts-jest": "^26.3.0",
+    "typescript": "~3.7.2"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "packages/shared/*",
+      "packages/microservice-one/*"
+    ]
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "@autor"
+}
